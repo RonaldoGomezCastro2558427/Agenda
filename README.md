@@ -22,12 +22,12 @@
 
 # Recaudación estudiantil con for 
 
-[Algoritmo de recolecta con for](algoritmo/Recolecta_estudiantil.md)
+[Algoritmo de recolecta con for](algoritmo/recolecta_estudiantil.md)
 
 
 # Recaudación para evento estudiantil con while
 
-[Algoritmo de recaudación](algoritmos/Recolecta_con_while.md)
+[Algoritmo de recaudación](algoritmos/recolecta_con_while.md)
 
 
 # Registro de autos
