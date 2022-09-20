@@ -15,7 +15,7 @@
 [Algoritmo de variable a y b](algoritmos/variable_a_y_b.md)
 
 
-# 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑎 𝑑𝑒 𝑐𝑎𝑙𝑐𝑢𝑙𝑜 𝑑𝑒 𝑖𝑚𝑝𝑢𝑒𝑠𝑡𝑜 ⮘𝐷𝑖𝑎 26/08/22⮚
+# 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑎 𝑑𝑒 𝑐𝑎𝑙𝑐𝑢𝑙𝑜 𝑑𝑒 𝑖𝑚𝑝𝑢𝑒𝑠𝑡𝑜 (𝐷𝑖𝑎 26/08/22)
 
 [Algoritmo de calculo de impuestos](algoritmos/calculo_de_impuesto.md)
 
