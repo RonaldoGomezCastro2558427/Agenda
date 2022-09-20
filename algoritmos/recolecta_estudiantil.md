@@ -1,4 +1,4 @@
-# ⮘Dia 28/08/22⮚
+# 28/08/22
 
 En una entidad educativa con 7500 estudiantes se requiere realizar una recolecta para sufragar los gastos de un evento organizado por el colegio.
 
