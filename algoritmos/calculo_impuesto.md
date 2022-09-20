@@ -1,8 +1,9 @@
-# Programa de calculo de impuesto ⮘Dia 26/08/22⮚
+# Programa de calculo de impuesto 26/08/22
 
-Ejercicio del ingreo anual
+Ejercicio del ingreso anual
 
-``` 
+~~~
+
 sub prueba () 
 
 ingresoanual = InputBox("Ingresa su ingreso anual: ")
@@ -39,4 +40,4 @@ Else
     End If
 End If
 
-``` 
+~~~
