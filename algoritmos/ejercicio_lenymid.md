@@ -1,4 +1,4 @@
-# Ejercicio con Len y Mid ⮘Dia 02/09/2022⮚
+# Ejercicio con Len y Mid 02/09/2022
 
 Ejercicio con Len y Mid
 

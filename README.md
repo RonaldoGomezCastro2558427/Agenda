@@ -37,4 +37,4 @@
 
 # Ejercicio len y mind 
 
-[Algoritmo 1 y 2 de len y mid](algoritmos/ejercicio_len_y_mid)
+[Algoritmo 1 y 2 de len y mid](algoritmos/ejercicio_lenymid)
