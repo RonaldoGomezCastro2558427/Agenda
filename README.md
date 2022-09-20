@@ -7,7 +7,7 @@
 
 # creación de algoitmo en visual basic
 
-[Algoritmo de visual basic](algoritmos/app_visual_basic.md)
+[Algoritmo de visual basic](algoritmos/visual_basic.md)
 
 
 # Variable a y b 
@@ -17,22 +17,22 @@
 
 # Programa de calculo de impuestos 
 
-[Algoritmo de calculo de impuestos](algoritmos/calculo_de_impuesto.md)
+[Algoritmo de calculo de impuestos](algoritmos/calculo_impuesto.md)
 
 
 # Recaudación estudiantil con for 
 
-[Algoritmo de recolecta con for](algoritmo/Recolecta_estudiantil_con_for.md)
+[Algoritmo de recolecta con for](algoritmo/Recolecta_estudiantil.md)
 
 
 # Recaudación para evento estudiantil con while
 
-[Algoritmo de recaudación](algoritmos/Recolecta_estudiantil_con_while.md)
+[Algoritmo de recaudación](algoritmos/Recolecta_con_while.md)
 
 
 # Registro de autos
 
-[Algoritmo de registro de autos](algoritmos/registro_de_autos.md)
+[Algoritmo de registro de autos](algoritmos/registro_autos.md)
 
 
 # Ejercicio len y mind 
