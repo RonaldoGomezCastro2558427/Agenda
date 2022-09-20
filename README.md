@@ -22,7 +22,7 @@
 
 # Recaudación estudiantil con for 
 
-[Algoritmo de recolecta con for](algoritmo/recolecta_estudiantil.md)
+[Algoritmo de recolecta con for](algoritmos/recolecta_estudiantil.md)
 
 
 # Recaudación para evento estudiantil con while
