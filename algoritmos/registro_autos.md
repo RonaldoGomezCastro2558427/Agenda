@@ -1,4 +1,4 @@
-# Registro de autos ⮘Dia 29/08/2022⮚
+# Registro de autos 29/08/2022
 
 Crear un progrma en visual basic, que permita al trabajador registrar datos ingresados por el cliente y mostrarlos en otra hoja.
 
