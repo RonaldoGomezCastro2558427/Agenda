@@ -38,3 +38,17 @@
 # Ejercicio len y mind 
 
 - [Algoritmo 1 y 2 de len y mid](algoritmos/ejercicio_lenymid.md)
+
+
+# Dart operaciones 
+
+- [Algoritmo de las operaciones basicas de dart](algoritmos/dart_operaciones.md)
+
+
+# Dart herencia
+
+- [Algoritmo de dart herencia 1.0](algoritmos/dart_herencia_1.md)
+
+# Dart herencia
+
+- [Algoritmo de dart herencia 2.0](algoritmos/dart_herencia_2.md)
