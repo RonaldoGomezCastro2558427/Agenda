@@ -52,3 +52,7 @@
 # Dart herencia
 
 - [Algoritmo de dart herencia 2.0](algoritmos/dart_herencia_2.md)
+
+# my_app
+
+- [Algotitmo de mi app en flutter](algoritmos/my_app.md)
